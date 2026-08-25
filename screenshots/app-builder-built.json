@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Inferno Training Ground",
+      "hasCanvas": false,
+      "bodyTextLen": 1903,
+      "bodyTextHash": "9a69d4acf533bb3871c3fb1dd3b0f6180f956c165ab718891d9ad560999ce6ff",
+      "bodyTextPrefix": "NEED CRISIS SUPPORT? YOU ARE NOT ALONE. 988 · VETERANS PRESS 1 A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Inferno Training Ground",
+      "hasCanvas": false,
+      "bodyTextLen": 1845,
+      "bodyTextHash": "0bb660b9c99fd829aa659a803d11b73c2bcdb54356ccf8aa5ea0ea54ba35aefe",
+      "bodyTextPrefix": "NEED CRISIS SUPPORT? YOU ARE NOT ALONE. 988 · VETERANS PRESS 1 A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
